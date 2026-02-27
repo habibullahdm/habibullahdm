@@ -68,14 +68,14 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/habibullahdm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/habibullahdm/" target="_blank" style="text-decoration: none !important; border: none !important;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="vertical-align: middle; border: none !important; box-shadow: none !important;" />
   </a>
-  <a href="https://www.instagram.com/hakyf_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/hakyf_/" target="_blank" style="text-decoration: none !important; border: none !important;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="vertical-align: middle; border: none !important; box-shadow: none !important;" />
   </a>
-  <a href="https://x.com/hakyf_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://x.com/hakyf_" target="_blank" style="text-decoration: none !important; border: none !important;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="vertical-align: middle; border: none !important; box-shadow: none !important;" />
   </a>
 </div>
 
