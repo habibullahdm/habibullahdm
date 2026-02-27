@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=habibullahdm&locale=en&mode=daily&theme=cobalt2&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibullahdm&radius=16&theme=cobalt&area=true&order=5&hide_title=false&hide_border=false" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibullahdm&radius=16&theme=cobalt&area=true&order=5&hide_title=false&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -68,14 +68,14 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/habibullahdm/" target="_blank" style="text-decoration: none !important; border: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="vertical-align: middle; border: none !important; box-shadow: none !important;" />
+  <a href="https://www.linkedin.com/in/habibullahdm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/hakyf_/" target="_blank" style="text-decoration: none !important; border: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="vertical-align: middle; border: none !important; box-shadow: none !important;" />
+  <a href="https://www.instagram.com/hakyf_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="https://x.com/hakyf_" target="_blank" style="text-decoration: none !important; border: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="vertical-align: middle; border: none !important; box-shadow: none !important;" />
+  <a href="https://x.com/hakyf_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
 
