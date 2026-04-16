@@ -16,7 +16,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=habibullahdm&locale=en&mode=daily&theme=cobalt2&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibullahdm&radius=16&theme=cobalt&area=true&order=5&hide_title=false&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
@@ -81,11 +81,11 @@
 
 ###
 
-<h4 align="center">Visitor Count</h4>
+<h3 align="left">🫣 Visitor Count</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://count.getloli.com/@:habibullahdm?theme=3d-num&padding=3&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
